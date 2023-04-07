@@ -1,2 +1,2 @@
 # Pydle
-Wordle in Python
+Wordle in Python using the pprint, colorama libraries
